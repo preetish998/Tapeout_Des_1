@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+UART programmable device (choose between different Baud Rated using input pins), which can choose the internal circuit eg - Inverter, MOSFET as switch
 
 ## How to test
 
-Explain how to use your project
+Using UART send actual data to get the output on the bidirectional pins
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+- Voltage Supply
+- Oscilloscope
+
