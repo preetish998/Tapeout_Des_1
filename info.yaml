@@ -4,7 +4,7 @@ project:
   author:       "Preetish"      # Your name
   discord:      "preetish_37870"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Programmable through UART, I can choose between Analog circuits like Inverters"      # One line description of what your project does
-  language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
+  language:     "Mixed Signal (Verilog + xschem)" # other examples include Verilog, Amaranth, VHDL, etc
   clock_hz:     20       # Clock frequency in Hz (or 0 if not applicable)
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
@@ -19,18 +19,18 @@ project:
 
   # List your project's source files here. Source files must be in ./src and you must list each source file separately, one per line:
   source_files:        
-    - "full_controller_seperate.v"
+    - "full_controller.v"
     - "uart3.v"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "clk"
-  ui[1]: "rst_n"
-  ui[2]: "baud_mode[0]"
-  ui[3]: "baud_mode[1]"
-  ui[4]: "rx_uart"
+  ui[0]: "baud_mode[0]"
+  ui[1]: "baud_mode[1]"
+  ui[2]: "rx_uart"
+  ui[3]: ""
+  ui[4]: ""
   ui[5]: ""
   ui[6]: ""
   ui[7]: ""
