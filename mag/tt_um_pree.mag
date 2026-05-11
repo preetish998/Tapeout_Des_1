@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1778475035
+timestamp 1778477303
 << locali >>
 rect 3000 26106 3138 26138
 rect 3000 25866 3016 26106
@@ -946,7 +946,7 @@ timestamp 1778463562
 transform 0 1 3112 -1 0 88224
 box 45078 -476 87634 57574
 use full_controller  full_controller_0 ~/Desktop/4thYear/Tp/FPAA_Testing/Tapeout_Folder/Tapeout_Des_1/gds_files_wm5
-timestamp 1778474918
+timestamp 1778477233
 transform 0 1 4950 -1 0 44176
 box 0 0 16000 57712
 << labels >>
