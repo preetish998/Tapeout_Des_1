@@ -583,8 +583,6 @@ MACRO tt_um_pree
         RECT 114.470 0.800 132.090 1.400 ;
         RECT 133.790 0.800 151.410 1.400 ;
         RECT 153.110 0.800 313.310 1.400 ;
-      LAYER met5 ;
-        RECT 69.510 146.580 282.490 215.600 ;
   END
 END tt_um_pree
 END LIBRARY
