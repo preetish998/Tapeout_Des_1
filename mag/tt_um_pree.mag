@@ -1,7 +1,7 @@
 magic
-tech sky130B
+tech sky130A
 magscale 1 2
-timestamp 1778463664
+timestamp 1778469804
 << locali >>
 rect 3000 26106 3138 26138
 rect 3000 25866 3016 26106
@@ -943,12 +943,12 @@ rect 34392 180 34412 320
 rect 26498 0 26678 168
 rect 30362 160 34412 180
 rect 30362 0 30542 160
-use combined_final  combined_final_0 ~/Desktop/4thYear/Tp/FPAA_Testing/FPAA_Tiny/Analog/Analog_submission2
+use combined_final  combined_final_0 ~/Desktop/4thYear/Tp/FPAA_Testing/Tapeout_Folder/Tapeout_Des_1/Analog_submission2a
 timestamp 1778463562
 transform 0 1 3112 -1 0 88224
 box 45078 -476 87634 57574
-use full_controller  full_controller_0 ~/Desktop/4thYear/Tp/FPAA_Testing/openlane2/OpenLane/designs/full_controller/runs/RUN_2026.05.10_20.13.04/results/final/gds
-timestamp 1778444217
+use full_controller  full_controller_0 ~/Desktop/4thYear/Tp/FPAA_Testing/Tapeout_Folder/Tapeout_Des_1/gds_files
+timestamp 1778469804
 transform 0 1 4950 -1 0 44176
 box 0 0 16000 57712
 << labels >>

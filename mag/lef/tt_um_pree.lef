@@ -2,9 +2,9 @@ VERSION 5.7 ;
   NOWIREEXTENSIONATPIN ON ;
   DIVIDERCHAR "/" ;
   BUSBITCHARS "[]" ;
-MACRO tt_um_pree
+MACRO tt_um_preea
   CLASS BLOCK ;
-  FOREIGN tt_um_pree ;
+  FOREIGN tt_um_preea ;
   ORIGIN 0.000 0.000 ;
   SIZE 334.880 BY 225.760 ;
   PIN clk
@@ -594,6 +594,6 @@ MACRO tt_um_pree
       LAYER met5 ;
         RECT 69.510 146.580 282.490 215.600 ;
   END
-END tt_um_pree
+END tt_um_preea
 END LIBRARY
 
