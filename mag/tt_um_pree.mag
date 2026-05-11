@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1778523824
+timestamp 1778536101
 << metal1 >>
 rect 210 26244 590 26280
 rect 210 25930 264 26244
@@ -570,9 +570,9 @@ rect 26498 0 26678 272
 rect 30362 262 34418 442
 rect 30362 0 30542 262
 use tt_um_preea  tt_um_preea_0 ~/Desktop/4thYear/Tp/FPAA_Testing/Tapeout_Folder/Tapeout_Des_1/magnew
-timestamp 1778522552
+timestamp 1778536051
 transform 1 0 -95880 0 1 -47576
-box 97094 47894 158542 92548
+box 97094 47874 158542 92548
 << labels >>
 flabel metal4 s 28766 44952 28826 45152 0 FreeSans 480 90 0 0 clk
 port 0 nsew signal input

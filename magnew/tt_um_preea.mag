@@ -1,9 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1778522552
-<< error_s >>
-rect 130124 47894 130272 47895
+timestamp 1778536051
 << locali >>
 rect 98880 73786 99018 73818
 rect 98880 73546 98896 73786
@@ -266,6 +264,7 @@ rect 130100 48020 130252 48596
 rect 130100 48000 130292 48020
 rect 130100 47894 130124 48000
 rect 130272 47894 130292 48000
+rect 130100 47874 130292 47894
 << via3 >>
 rect 106286 92000 106424 92074
 rect 124534 92054 124696 92152
@@ -377,8 +376,9 @@ rect 122378 47894 125086 48028
 rect 126242 48000 130292 48020
 rect 126242 47894 130124 48000
 rect 130272 47894 130292 48000
-use combined_final  combined_final_0 ~/Desktop/4thYear/Tp/FPAA_Testing/Tapeout_Folder/Tapeout_Des_1/Analog_submission2a
-timestamp 1778463562
+rect 130100 47874 130292 47894
+use combined_final  combined_final_0 ~/Desktop/4thYear/Tp/FPAA_Testing/Tapeout_Folder/Tapeout_Des_1/Analog_submission2aactual
+timestamp 1778535863
 transform 0 1 98992 -1 0 135904
 box 45078 -476 87634 57574
 use full_controller  full_controller_0 ~/Desktop/4thYear/Tp/FPAA_Testing/Tapeout_Folder/Tapeout_Des_1/gds_files_wm5
