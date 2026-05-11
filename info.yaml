@@ -5,7 +5,7 @@ project:
   discord:      "preetish_37870"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Programmable through UART, I can choose between Analog circuits like Inverters"      # One line description of what your project does
   language:     "Mixed Signal (Verilog + xschem)" # other examples include Verilog, Amaranth, VHDL, etc
-  clock_hz:     20       # Clock frequency in Hz (or 0 if not applicable)
+  clock_hz:     1843200       # Clock frequency in Hz (or 0 if not applicable)
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "2x2"          # Valid values for analog projects: 1x2, 2x2
