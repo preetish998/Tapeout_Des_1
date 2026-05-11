@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "UART_Analog_IC"      # Project title
+  title:        "UART_Controller"      # Project title
   author:       "Preetish"      # Your name
   discord:      "preetish_37870"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Programmable through UART, I can choose between Analog circuits like Inverters"      # One line description of what your project does
@@ -56,10 +56,10 @@ pinout:
   uio[7]: ""
 
   # Analog pins - make sure to also set "analog_pins" above, else the pins won't be connected
-  ua[0]: ""
-  ua[1]: ""
-  ua[2]: ""
-  ua[3]: ""
+  ua[0]: "ex4"
+  ua[1]: "ex3"
+  ua[2]: "ex2"
+  ua[3]: "ex1"
   ua[4]: ""
   ua[5]: ""
 
